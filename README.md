@@ -1,19 +1,16 @@
-Python-Projects
-1. Rock, Paper, Scissors Game 🎮
+#Python-Projects
+##1. Rock, Paper, Scissors Game 🎮
+br
 A fun and interactive Rock, Paper, Scissors Game created with Python's Tkinter GUI framework by using easy logic. The game lets you play against the computer if you have no one to play with.
 
-Features ✨
-GUI-Based Gameplay: Easy-to-use interface for the player.
+##Features ✨
+Easy-to-use interface for the player.
+Player's and computer's scores are dynamically displayed.
+Includes a pop-up window with game rules for those who don't know how to play.
+Quickly reset the game for a fresh start.
+Adds an element of unpredictability and fairness.
 
-Scoring System: Player's and computer's scores are dynamically displayed.
-
-Customizable Rules: Includes a pop-up window with game rules.
-
-Reset Functionality: Quickly reset the game for a fresh start.
-
-Randomized Computer Choices: Adds an element of unpredictability and fairness.
-
-Requirements 🛠️
+##Requirements 🛠️
 Python 3.x
 
 The following libraries:
